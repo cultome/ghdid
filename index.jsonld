@@ -1,0 +1,50 @@
+{
+  "@context": "https://w3id.org/did/v1",
+  "id": "did:github:cultome",
+  "publicKey": [
+    {
+      "type": "OpenPgpVerificationKey2019",
+      "id": "did:github:cultome#_hxDkHKV1GL7lq1dABJ1FynPY1HPvlfnBID2c0ar8T4",
+      "controller": "did:github:cultome",
+      "publicKeyPem": "-----BEGIN PGP PUBLIC KEY BLOCK-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nxk8EYmIhNRMFK4EEAAoCAwQu85k44IxnSagy21aTVSd3GqSr6NC0vx+1SPos\r\n9aR3CrzSHmgWxYBEL09ztiKFEj17IC8WbKBgHyiaLeRrA9+NzRdhbm9uIDxh\r\nbm9uQGV4YW1wbGUuY29tPsKPBBATCAAgBQJiYiE1BgsJBwgDAgQVCAoCBBYC\r\nAQACGQECGwMCHgEAIQkQgWHk7zDX4UwWIQRtOqlw4zLlhVDLRmGBYeTvMNfh\r\nTJNPAQDT3w4ruhxsO4C4M43QuCLGmgPhswvZHVTbJ+5/eyruhgD/Vgr4hvVw\r\ny35KrDYpvuC+pOAXjIh+6rn7YSqnSjEuYVrOUwRiYiE1EgUrgQQACgIDBK5B\r\nfdL/J8WXvyT7zxUMW6LdGlhuDfqBe3lLEEaIwutjvhZ76Wbn+s4XwiTqG1fA\r\nkLnuoMf67CpBJpHqrbikGIsDAQgHwngEGBMIAAkFAmJiITUCGwwAIQkQgWHk\r\n7zDX4UwWIQRtOqlw4zLlhVDLRmGBYeTvMNfhTNCEAQC+jJQp19NIs0qIc0RY\r\nbtWseZSbx+LH6++nXkvcaJHezAD/VMfIz3Xx7QRVLxMeHDepVigtBnjEP5SN\r\nKYbdYKzcaM0=\r\n=Odjd\r\n-----END PGP PUBLIC KEY BLOCK-----\r\n"
+    },
+    {
+      "type": "OpenPgpVerificationKey2019",
+      "id": "did:github:cultome#OxGAvFRKEbkB7Ap6CLFnlxzh2GN2yMiecbdM7QWhePs",
+      "controller": "did:github:cultome",
+      "publicKeyPem": "-----BEGIN PGP PUBLIC KEY BLOCK-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nxk8EYmIhNRMFK4EEAAoCAwQVcBathO8l99auClYI3cxOdf+ttX64itQ+FEYX\r\nQLZmUmbGf9O+z5Y2MEHIlfWlhulqGCYjtie3DGnCHw5ifJYJzRdhbm9uIDxh\r\nbm9uQGV4YW1wbGUuY29tPsKPBBATCAAgBQJiYiE1BgsJBwgDAgQVCAoCBBYC\r\nAQACGQECGwMCHgEAIQkQbh8EDgzHKpkWIQToQrjhp33XFd6J8XxuHwQODMcq\r\nmYXEAP943so0Bvku9W4F15GrLTv3fyqWoX2m2wYt1X4/O31ekAD/W7xTJANN\r\nRRIMoLt8lHD8d2/LhHjIjDe2SqAIKJn+uJrOUwRiYiE1EgUrgQQACgIDBArB\r\nNbKDGF2g61AgWsvTpD4HT0qa7uu9If22Mhsl9TyuMbkeo8Vm3jhK9ZuNH4R3\r\ngs9Y69TVWXMikAhfefByH+cDAQgHwngEGBMIAAkFAmJiITUCGwwAIQkQbh8E\r\nDgzHKpkWIQToQrjhp33XFd6J8XxuHwQODMcqmfavAQDib3pWPESa3xWhg99c\r\njZEgXMp3jD87BmDe6gOhARmVqwEA5ejWPoF6T/C0WGl3F73WwRFuXPxQiUha\r\nqy/G7poDozg=\r\n=B49c\r\n-----END PGP PUBLIC KEY BLOCK-----\r\n"
+    },
+    {
+      "type": "Ed25519VerificationKey2018",
+      "id": "did:github:cultome#8z5pj31RvSTVH7klblRKqfZGsWDZWVUsvFRksShLFR4",
+      "controller": "did:github:cultome",
+      "publicKeyBase58": "6MHXEXw4ATxsLcaC8WuU8VgBFyXMAY7PEwB7p4qu6Bc1"
+    }
+  ],
+  "authentication": [],
+  "service": [],
+  "capabilityDelegation": [
+    "did:github:cultome#8z5pj31RvSTVH7klblRKqfZGsWDZWVUsvFRksShLFR4"
+  ],
+  "capabilityInvocation": [
+    "did:github:cultome#8z5pj31RvSTVH7klblRKqfZGsWDZWVUsvFRksShLFR4"
+  ],
+  "assertionMethod": [
+    "did:github:cultome#8z5pj31RvSTVH7klblRKqfZGsWDZWVUsvFRksShLFR4"
+  ],
+  "keyAgreement": [
+    {
+      "id": "did:github:cultome#z6LSjvZygPqdBumAhLEskMuvfN5yDs6FxsUVMQ5Ytg9jLVjU",
+      "type": "X25519KeyAgreementKey2019",
+      "controller": "did:github:cultome",
+      "publicKeyBase58": "9FPpA62m6T3Rbws7DiPyLmsVNiZ9GGJLURMsQDWCd7xi"
+    }
+  ],
+  "proof": {
+    "type": "Ed25519Signature2018",
+    "created": "2022-04-22T03:29:57Z",
+    "verificationMethod": "did:github:cultome#8z5pj31RvSTVH7klblRKqfZGsWDZWVUsvFRksShLFR4",
+    "proofPurpose": "assertionMethod",
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..1oOxLAiQOC2OmG9a5dOX536tLll71q8su8DZxQDJcrb_HbD_ARDQOgSxFKfiB41CUQce-24y1lXC9lVAO0VmBA"
+  }
+}
